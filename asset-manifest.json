@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PelisReact/static/css/main.a483283c.css",
+    "main.js": "/PelisReact/static/js/main.867a6813.js",
+    "index.html": "/PelisReact/index.html",
+    "main.a483283c.css.map": "/PelisReact/static/css/main.a483283c.css.map",
+    "main.867a6813.js.map": "/PelisReact/static/js/main.867a6813.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a483283c.css",
+    "static/js/main.867a6813.js"
+  ]
+}
